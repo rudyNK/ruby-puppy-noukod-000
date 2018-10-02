@@ -2,7 +2,7 @@ class Puppy
   def initialize(name)
   	@name = name
   end
-	
+
   def bark
   	puts "#{@name} says: Woof!"
   end
